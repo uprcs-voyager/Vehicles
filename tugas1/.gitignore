@@ -3,6 +3,7 @@
 *.jar
 *.war
 *.log
+*.README.md
 
 # IDE folders
 .idea/
